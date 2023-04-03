@@ -1,4 +1,4 @@
-<p align="center;" style="font-weight:900;";>## Voici un screenshot de l'app ##</p>
+## Screenshot de la TODOList en PHP avec Laravel
 
 <p align="center"><img src="https://github.com/MohammedMoussouni/ToDoList-Lavarel/blob/main/Screenshot-app-todolist.jpg" width="800"></p>
 
